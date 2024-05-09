@@ -59,7 +59,7 @@ export const PasswordStrengthExample = () => {
               className="control"
               type="email"
               placeholder="Email"
-              defaultValue="joe@gmail.com"
+              defaultValue="sohit9865@gmail.com"
             />
             <div id="spinner" className="spinner"></div>
           </div>
