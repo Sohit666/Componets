@@ -25,6 +25,7 @@
     "eslint-plugin-react": "^8.0.0",    
     "eslint-plugin-react-hooks": "^5.0.0",    
     "eslint-plugin-react-refresh": "^1.0.0",    
-    "vite": "^6.0.0" 
+    "vite": "^6.0.0" ,
+    "@gsap/react": "^3.8.0"
   }
 }
